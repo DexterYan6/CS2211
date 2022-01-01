@@ -1,0 +1,5 @@
+#include "initializeArrays.c"
+#include "combineArrays.c"
+#include "printArrays.c"
+#include "sortArrays.c"
+#include "free.c"

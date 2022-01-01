@@ -1,0 +1,1 @@
+(((doc*)head->dataPtr)->priority == docum->priority && ((doc*)head->dataPtr)->pages >= docum->pages
