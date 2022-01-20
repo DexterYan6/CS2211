@@ -1,5 +1,5 @@
 # CS2211
-C assignments done for Western University's CS2211 course. Specific assignment instructions are inlcuded. Below are brief assignment descriptions:
+C assignments done for Western University's CS2211 course. Specific assignment instructions are inlcuded as PDFs. Below are brief assignment descriptions:
 
 Assignment 2:
 Creating, traversing and sorting an array.
